@@ -15,9 +15,10 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 ![Gif of Demo](https://github.com/furiameyer/liri-node-app/blob/master/Feb%2022%202019%205_35%20PM.gif)
 
-![Video of Demo](https://drive.google.com/file/d/1AHV7Bgnsnrn0wZf-B1a5Z2S1igVqYSRv/view)
+For a full resolution video of the demo click [here](https://drive.google.com/file/d/1AHV7Bgnsnrn0wZf-B1a5Z2S1igVqYSRv/view)
 
-You can view a full definition video where I've conducted a demo of the app here: 
+http://github.com - automatic!
+[GitHub](https://drive.google.com/file/d/1AHV7Bgnsnrn0wZf-B1a5Z2S1igVqYSRv/view)
 
 ### Before You Begin
 
