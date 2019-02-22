@@ -25,6 +25,8 @@ For a full resolution video of the demo click [here](https://drive.google.com/fi
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
    
+   * [fs](https://www.npmjs.com/package/fs)
+   
 ## Features of LIRI
 
 ### What Each Command Does
