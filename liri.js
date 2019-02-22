@@ -71,7 +71,7 @@ function spotifyThisSong (arg) {
             "Album: " + jsonData.album.name,
             divider
         ].join("\n\n");
-debugger
+
         console.log(songData);
         printToLog(songData);
     })
